@@ -1,0 +1,23 @@
+{
+  "name": "ramon-fechas",
+  "homepage": "https://github.com/rservicios/fechas",
+  "authors": [
+    "Miguel Angel Alvarez <malvarez@desarrolloweb.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pikaday": "^1.5.1",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13"
+  }
+}
